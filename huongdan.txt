@@ -1,10 +1,9 @@
-1. Giải nén 2 file
-2. Tạo csdl shopapp và insert câu lệnh sql ( Lưu ý file application.yml để connect, tùy chỉnh lại với MySQL đang sử dụng)
-3. Chạy dự án frontend: 
+1. Tạo csdl shopapp và insert câu lệnh sql ( Lưu ý file application.yml để connect, tùy chỉnh lại với MySQL đang sử dụng)
+2. Chạy dự án frontend: 
 	+ Node js 18.16.1 LTS
 	+ Sử dụng yarn install ( không dùng npm insall )
 	+ Sử dụng @angular/cli 15
-4. Phân công công việc: 
+3. Phân công công việc: 
  - Nguyên: Sửa trang Categories thành trang Staff - Quản lý người dùng trong hệ thống
 	+ Hiển thị 1 table gồm các thông tin người dùng trong hệ thống (Có phân trang)
 	+ Chức năng yêu cầu: Thêm, Sửa, Xóa, View Detail
